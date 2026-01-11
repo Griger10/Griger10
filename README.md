@@ -38,6 +38,11 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+### 🧪 Testing
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-20232A?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ### 🎨 Frontend (Supporting)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -59,6 +64,10 @@
 * 🗄 **Data & Reliability**  
   Работа с PostgreSQL и Redis, оптимизация запросов, транзакции, консистентность данных.
 
+* 🧪 **Testing & Quality**  
+  Написание unit- и integration-тестов для backend-сервисов.  
+  Тестирование API (pytest, HTTPX), изоляция внешних зависимостей, проверка асинхронного кода.
+
 * ⚙️ **Infrastructure**  
   Контейнеризация (Docker), CI/CD, деплой и эксплуатация сервисов на Linux.  
   Базовая наблюдаемость и мониторинг (Prometheus, Grafana).
@@ -79,9 +88,10 @@
 * Celery, Taskiq, FastStream  
 * RabbitMQ, NATS  
 
-### Data & Observability
+### Data, Observability & Testing
 * PostgreSQL, Redis  
 * Prometheus, Grafana  
+* pytest, HTTPX, API testing  
 
 ---
 
