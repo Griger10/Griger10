@@ -1,6 +1,6 @@
 # Backend / Systems Engineer
 
-**Python · Go · Distributed Systems · DDD · Clean Architecture**  
+**Python · TypeScript · Distributed Systems · DDD · Clean Architecture**  
 Владимир, Россия · [Telegram](https://t.me/griger10) · [griger1011@gmail.com](mailto:griger1011@gmail.com)
 
 ---
@@ -9,7 +9,6 @@
 
 **Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1714?style=flat-square&logo=django&logoColor=white)
